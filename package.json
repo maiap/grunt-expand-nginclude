@@ -4,7 +4,7 @@
   "description": "Replaces static AngularJS ng-include directives by their contents",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt check"
   },
   "bugs": {
     "url": "https://github.com/maiap/grunt-expand-nginclude/issues"
