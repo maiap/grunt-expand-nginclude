@@ -6,7 +6,7 @@ module.exports = (function () {
             files: ['package.json'],
             updateConfigs: [],
             commit: true,
-            commitMessage: 'SCR: NA - Release v%VERSION%',
+            commitMessage: 'Release v%VERSION%',
             commitFiles: ['package.json'],
             createTag: true,
             tagName: 'v%VERSION%',
