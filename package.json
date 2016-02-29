@@ -1,6 +1,6 @@
 {
   "name": "grunt-expand-nginclude",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Replaces static AngularJS ng-include directives by their contents",
   "main": "index.js",
   "scripts": {
