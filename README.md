@@ -1,3 +1,4 @@
+[![Build Status](https://secure.travis-ci.org/maiap/grunt-expand-nginclude.png?branch=master)](http://travis-ci.org/#!/maiap/grunt-expand-nginclude)
 # grunt-expand-nginclude
 
 Replaces static AngularJS `ng-include` directives by their contents
