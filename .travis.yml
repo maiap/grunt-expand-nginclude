@@ -5,3 +5,5 @@ node_js:
 sudo: required
 #before_install:
 #  - "npm install npm@$NPM_VERSION -g"
+after_success:
+  - "./node_modules/coveralls/bin/coveralls.js < reports/coverage/lcov.info"

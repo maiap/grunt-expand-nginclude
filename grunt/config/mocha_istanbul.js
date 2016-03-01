@@ -19,7 +19,7 @@ module.exports = (function () {
                     branches: MIN_COVERAGE,
                     functions: MIN_COVERAGE
                 },
-                reportFormats: ['html']
+                reportFormats: ['html', 'lcov']
             }
         }
     };
